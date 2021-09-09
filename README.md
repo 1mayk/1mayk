@@ -4,8 +4,8 @@
 
  <div>
   <a href="https://github.com/1mayk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1mayk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mayk&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=1mayk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mayk&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -25,5 +25,5 @@
   <a href = "mailto:maycon.lrgo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maycon-oliveira97/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.behance.net/1mayk/" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
-  ![Snake animation](https://github.com/1mayk/1mayk/blob/output/github-contribution-grid-snake.svg)
+  https://github.com/1mayk/1mayk/blob/output/github-contribution-grid-snake.svg
 </div>
