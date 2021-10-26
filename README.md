@@ -1,11 +1,14 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Mayk </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1mayk&color=yellow" alt="Profile views" /> </p>
+
 - 🧪⚙ Majoring chemistry eng
 - 💻 Learning React && Typescript
+- 👨‍💻 Student at [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h)
 
  <div>
   <a href="https://github.com/1mayk">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=1mayk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mayk&layout=compact&langs_count=7&theme=radical"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=1mayk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mayk&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -15,7 +18,6 @@
   <img align="center" alt="Mayk-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mayk-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   
-  <a href="https://giphy.com/gifs/baby-yoda-Wn74RUT0vjnoU98Hnt"></a></p>
 </div>
   
 ##
