@@ -2,8 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1mayk&color=yellow" alt="Profile views" /> </p>
 
 - 🧪⚙ Majoring chemistry eng
-- 💻 Learning React && Typescript
-- 👨‍💻 Student at [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h)
+- 💻 Student at [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h)
 
  <div>
   <a href="https://github.com/1mayk">
