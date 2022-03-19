@@ -22,13 +22,19 @@
  <img align="center" alt="Mayk-Rx" height="30" width="105" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
  <img align="center" alt="Mayk-Rx" height="30" width="105" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
  <img align="center" alt="Mayk-Rx" height="30" width="105" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
- <img align="center" alt="Mayk-Rx" height="30" width="100" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
- <img align="center" alt="Mayk-Rx" height="30" width="100" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
- 
 </div>
+
+ ##
+ 
+ # Design
+<div>
+  <img align="center" alt="Mayk-Rx" height="30" width="100" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+ <img align="center" alt="Mayk-Rx" height="30" width="100" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+</div>
+
+
   
-##
-  
+# Social
 <div>
   <a href="https://www.instagram.com/_mayconoliveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:maycon.lrgo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
