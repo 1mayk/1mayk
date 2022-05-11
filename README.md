@@ -4,12 +4,12 @@
 - 🧪⚙ Majoring chemistry eng
 - 💻 Student at [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h)
 
- <div align="center">
+ <div align="center" width="100%">
   <a href="https://github.com/1mayk">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1mayk&theme=github-dark&hide_border=true" alt="1mayk" />
    <br>
-  <img height:"180em" src="https://github-readme-stats.vercel.app/api?username=1mayk&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height:"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mayk&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=1mayk&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mayk&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
 </div>
   
 <div style="display: inline_block"><br>
