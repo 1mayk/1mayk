@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Mayk </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1mayk&color=yellow" alt="Profile views" /> </p>
 
-- 🧪⚙ Majoring Chemistry Eng
+- 🧪⚙ Majoring Chemistry Eng at [UTFPR](http://www.utfpr.edu.br/)
 - 💻 Student at [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h)
 
  <div align="center" width="100%">
