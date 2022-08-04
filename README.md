@@ -24,7 +24,7 @@
  <img align="center" alt="Mayk-Rx" height="30" width="105" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
  <img align="center" alt="Mayk-Rx" height="30" width="105" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
  <img align="center" alt="Mayk-Rx" height="30" width="105" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
- <img align="center" alt="Mayk-Rx" height="30" width="105" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+ <img align="center" alt="Mayk-Rx" height="30" width="95" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  <img align="center" alt="Mayk-Rx" height="30" width="105" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
  <img align="center" alt="Mayk-Rx" height="30" width="105" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white">
  <img align="center" alt="Mayk-Rx" height="30" width="105" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red">
