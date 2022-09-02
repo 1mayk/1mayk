@@ -34,7 +34,7 @@
  <img align="center" alt="Mayk-Rx" height="30" width="110" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
 </div>
 
- ##
+ ## 
  
  # Design
 <div>
