@@ -31,7 +31,7 @@
  <img align="center" alt="Mayk-Rx" height="30" width="105" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon">
  <img align="center" alt="Mayk-Rx" height="30" width="105" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
  <img align="center" alt="Mayk-Rx" height="30" width="85" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
- <img align="center" alt="Mayk-Rx" height="30" width="110" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
+ <img align="center" alt="Mayk-Rx" height="30" width="115" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
 </div>
 
  ## 
