@@ -3,6 +3,7 @@
 
 - 🧪⚙ Majoring Chemistry Eng at [UTFPR](http://www.utfpr.edu.br/)
 - 💻 Full Stack Web Development student at [Trybe](https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h)
+- ✉️ You can find at: maycon.lrgo@gmail.com
 
  <div align="center" width="100%">
   <a href="https://github.com/1mayk">
