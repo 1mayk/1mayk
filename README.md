@@ -43,5 +43,3 @@
  <img align="center" alt="Mayk-Rx" height="30" width="100" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 </div>
 
-
-![Snake animation](https://github.com/1mayk/1mayk/blob/output/github-contribution-grid-snake.svg)
