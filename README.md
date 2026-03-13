@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1mayk&color=yellow" alt="Profile views" /> </p>
 
 - 🧪⚙ Chemical and Software Engineer 
-- 💻 Full Stack Web Developer / LIMS Consultant
+- 💻 Full Stack Web Developer / LIMS Consultant  
 - ✉️ You can find at: maycon.lrgo@gmail.com
 
  <div align="center" width="100%">
